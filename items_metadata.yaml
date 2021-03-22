@@ -487,14 +487,14 @@ samples:
   licenseInfo: ""
   runtime: advanced_gpu
   tags: ["Data Science", "GIS", "Vehicle", "Detection", "Deep Learning", "Tracking", "Featured"]
-- title: Visualize monthly changes in Hirakund reservoir using video
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=8fdbf15d65674f69a947cbe449eb3647
-  path: ./samples/04_gis_analysts_data_scientists/visualize_monthly_changes_in_hirakund_reservoir_using_video.ipynb
-  thumbnail: ./static/thumbnails/visualize_monthly_changes_in_hirakund_reservoir_using_video.gif
-  snippet: Visualize monthly changes in the Hirakund reservoir
-  description: This notebook creates a movie to visualize monthly changes in Hirakund reservoir, Odisha.
-  licenseInfo: ""
-  tags: ["Data Science", "GIS", "Changes", "Video"]
+# - title: Visualize monthly changes in Hirakund reservoir using video
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=8fdbf15d65674f69a947cbe449eb3647
+#   path: ./samples/04_gis_analysts_data_scientists/visualize_monthly_changes_in_hirakund_reservoir_using_video.ipynb
+#   thumbnail: ./static/thumbnails/visualize_monthly_changes_in_hirakund_reservoir_using_video.gif
+#   snippet: Visualize monthly changes in the Hirakund reservoir
+#   description: This notebook creates a movie to visualize monthly changes in Hirakund reservoir, Odisha.
+#   licenseInfo: ""
+#   tags: ["Data Science", "GIS", "Changes", "Video"]
 - title: Which areas are good cougar habitat?
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=74f55ed014014f90a1ff81d469abbf22
   path: ./samples/04_gis_analysts_data_scientists/which_areas_are_good_cougar_habitat.ipynb
@@ -665,24 +665,24 @@ samples:
   licenseInfo: ""
   runtime: advanced_gpu
   tags: ["Data Science", "GIS", "Image", "Translation", "Deep Learning"]
-- title: Automatic road extraction using deep learning
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=b8f7bbb077b94cb8ac5195b940278cb6
-  path: ./samples/04_gis_analysts_data_scientists/automatic_road_extraction_using_deep_learning.ipynb
-  thumbnail: ./static/thumbnails/automatic_road_extraction_using_deep_learning.jpg
-  snippet: Classify roads, utilizing API's Multi-Task Road Extractor model.
-  description: In this notebook we will train a deep learning model (Multi-Task Road Extractor model) to extract the road network from satellite imagery.
-  licenseInfo: ""
-  runtime: advanced_gpu
-  tags: ["Data Science", "GIS", "Road", "Extraction", "Deep Learning"]
-- title: Creating building models using point cloud classification
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=739fc8e4641d4e4e9068f56b9437d33e
-  path: ./samples/04_gis_analysts_data_scientists/creating_building_models_using_point_cloud_classification.ipynb
-  thumbnail: ./static/thumbnails/creating_building_models_using_point_cloud_classification.jpg
-  snippet: Classify building points using API's PointCNN model and generate 3D building multipatches, from classified building points.
-  description: In this notebook we will train a deep learning model to classify building points using API's PointCNN model and generate 3D building multipatches, from classified building points.
-  licenseInfo: ""
-  runtime: advanced_gpu
-  tags: ["Data Science", "GIS", "Building", "Classification", "Deep Learning"]
+# - title: Automatic road extraction using deep learning
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=b8f7bbb077b94cb8ac5195b940278cb6
+#   path: ./samples/04_gis_analysts_data_scientists/automatic_road_extraction_using_deep_learning.ipynb
+#   thumbnail: ./static/thumbnails/automatic_road_extraction_using_deep_learning.jpg
+#   snippet: Classify roads, utilizing API's Multi-Task Road Extractor model.
+#   description: In this notebook we will train a deep learning model (Multi-Task Road Extractor model) to extract the road network from satellite imagery.
+#   licenseInfo: ""
+#   runtime: advanced_gpu
+#   tags: ["Data Science", "GIS", "Road", "Extraction", "Deep Learning"]
+# - title: Creating building models using point cloud classification
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=739fc8e4641d4e4e9068f56b9437d33e
+#   path: ./samples/04_gis_analysts_data_scientists/creating_building_models_using_point_cloud_classification.ipynb
+#   thumbnail: ./static/thumbnails/creating_building_models_using_point_cloud_classification.jpg
+#   snippet: Classify building points using API's PointCNN model and generate 3D building multipatches, from classified building points.
+#   description: In this notebook we will train a deep learning model to classify building points using API's PointCNN model and generate 3D building multipatches, from classified building points.
+#   licenseInfo: ""
+#   runtime: advanced_gpu
+#   tags: ["Data Science", "GIS", "Building", "Classification", "Deep Learning"]
 - title: Address Standardization and Correction using SequenceToSequence model
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=959062ea7437471b9f39c4bb3f88d122
   path: ./samples/04_gis_analysts_data_scientists/address-standardization-and-correction-with-sequencetosequence.ipynb
@@ -735,15 +735,15 @@ samples:
   licenseInfo: ""
   runtime: advanced_gpu
   tags: ["Data Science", "GIS", "Image Translation", "Deep Learning"]
-- title: Coastline extraction using Landsat-8 multispectral imagery and band ratio technique
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=4d8d5789a5e045bbbd02a01903841439
-  path: ./samples/04_gis_analysts_data_scientists/coastline_extraction-usa-landsat8_multispectral_imagery.ipynb
-  thumbnail: ./static/thumbnails/default.png
-  snippet: Landsat-8 multispectral imagery is used in the current study as it covers a wavelength ranging from 0.43 to 12.51 micrometers, and hence suitable for coastal and aerosol studies.
-  description: Landsat-8 multispectral imagery is used in the current study as it covers a wavelength ranging from 0.43 to 12.51 micrometers, and hence suitable for coastal and aerosol studies.
-  licenseInfo: ""
-  runtime: advanced_gpu
-  tags: ["Data Science", "GIS", "Coastline Extraction", "Imagery"]
+# - title: Coastline extraction using Landsat-8 multispectral imagery and band ratio technique
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=4d8d5789a5e045bbbd02a01903841439
+#   path: ./samples/04_gis_analysts_data_scientists/coastline_extraction-usa-landsat8_multispectral_imagery.ipynb
+#   thumbnail: ./static/thumbnails/default.png
+#   snippet: Landsat-8 multispectral imagery is used in the current study as it covers a wavelength ranging from 0.43 to 12.51 micrometers, and hence suitable for coastal and aerosol studies.
+#   description: Landsat-8 multispectral imagery is used in the current study as it covers a wavelength ranging from 0.43 to 12.51 micrometers, and hence suitable for coastal and aerosol studies.
+#   licenseInfo: ""
+#   runtime: advanced_gpu
+#   tags: ["Data Science", "GIS", "Coastline Extraction", "Imagery"]
 - title: Translating Story Map from one language to another using Deep Learning
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=15a731751bad43c7abf7258b7aa90bac
   path: ./samples/04_gis_analysts_data_scientists/translating_story_map_from_one_language_to_another.ipynb
