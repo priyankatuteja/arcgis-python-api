@@ -575,14 +575,14 @@ samples:
   description:  The analysis below uses a geoprocessing tool to deduce the path that the debris of a crashed airplane would take if it went down at different places in the ocean.
   licenseInfo: ''
   tags: ['Data Science', 'GIS', "Geoprocessing tools"]
-- title: Hey GIS, Give me a map of the recent natural disasters
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=7eae3c9f586f4d7ab7494b0494c9a97c
-  path: ./samples/05_content_publishers/hey_gis_give_me_a_map_of_the_recent_natural_disasters.ipynb
-  thumbnail: ./static/thumbnails/hey_gis_give_me_a_map_of_the_recent_natural_disasters.png
-  snippet: hey gis give me a map of the recent natural disasters
-  description: The sample notebook takes advantage of NASA's Earth Observatory Natural Event Tracker (EONET) API to collect a curated and continuously updated set of natural event metadata, and transform them into ArcGIS FeatureCollection(s) and save them into Web Maps in your GIS.
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "Natural Disasters", "Map"]
+# - title: Hey GIS, Give me a map of the recent natural disasters
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=7eae3c9f586f4d7ab7494b0494c9a97c
+#   path: ./samples/05_content_publishers/hey_gis_give_me_a_map_of_the_recent_natural_disasters.ipynb
+#   thumbnail: ./static/thumbnails/hey_gis_give_me_a_map_of_the_recent_natural_disasters.png
+#   snippet: hey gis give me a map of the recent natural disasters
+#   description: The sample notebook takes advantage of NASA's Earth Observatory Natural Event Tracker (EONET) API to collect a curated and continuously updated set of natural event metadata, and transform them into ArcGIS FeatureCollection(s) and save them into Web Maps in your GIS.
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "Natural Disasters", "Map"]
 - title: HTML Table to Pandas Data Frame to Portal Item
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=8bbc583569244b2daabe8079c5644fc2
   path: ./samples/05_content_publishers/html_table_to_pandas_data_frame_to_portal_item.ipynb
@@ -599,46 +599,46 @@ samples:
   description: This notebook will search through all WebMap/WebScene/App Items in a portal/organization, identifying the 'insecure' ones if one or more service URLs use http\://.
   licenseInfo: ''
   tags: ['Data Science', 'GIS', "Insecure URL"]
-- title: Overwriting feature layers
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=691578df03c04f88862bc61774501699
-  path: ./samples/05_content_publishers/overwriting_feature_layers.ipynb
-  thumbnail: ./static/thumbnails/overwriting_feature_layers.png
-  snippet: overwriting feature layers
-  description: In this sample, we edit individual features as updated datasets are available
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "Overwrite", "Feature", "Layers"]
-- title: PDF Table to PDF Map
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=d4124579b757443fa0577a93ad1d07ab
-  path: ./samples/05_content_publishers/pdf_table_to_pdf_map.ipynb
-  thumbnail: ./static/thumbnails/pdf_table_to_pdf_map.png
-  snippet: pdf table to pdf map
-  description: This sample shows how Pandas can be used to extract data from a table within a PDF file into the GIS for further analysis and visualization
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "pdf", "Table", "Map"]
-- title: Publishing packages as web layers
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=d759771e21344942b5b67cf34439c91c
-  path: ./samples/05_content_publishers/publishing_packages_as_web_layers.ipynb
-  thumbnail: ./static/thumbnails/publishing_packages_as_web_layers.png
-  snippet: publishing packages as web layers
-  description: In this sample, we will observe how to publish web layers from tile, vector tile and scene layer packages.
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "Web", "Publish", "Layers"]
-- title: Publishing SDs, Shapefiles, and CSVs
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=a1db6db172bc49a8932daacc2ed3d3ac
-  path: ./samples/05_content_publishers/publishing_sd_shapefiles_and_csv.ipynb
-  thumbnail: ./static/thumbnails/publishing_sd_shapefiles_and_csv.png
-  snippet: publishing sd shapefiles and csv
-  description: This sample notebook shows how different types of GIS datasets can be added to the GIS, and published as web layers.
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "Shapefiles", "Publish", "CSV"]
-- title: Publishing web maps and web scenes
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=9840ca386ee7480a880d84a497db41de
-  path: ./samples/05_content_publishers/publishing_web_maps_and_web_scenes.ipynb
-  thumbnail: ./static/thumbnails/publishing_web_maps_and_web_scenes.png
-  snippet: publishing web maps and web scenes
-  description: This sample demonstrates how to create and publish simple examples of web maps and scenes using the Python API.
-  licenseInfo: ''
-  tags: ['Data Science', 'GIS', "Maps", "Web Scenes", "Publish"]
+# - title: Overwriting feature layers
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=691578df03c04f88862bc61774501699
+#   path: ./samples/05_content_publishers/overwriting_feature_layers.ipynb
+#   thumbnail: ./static/thumbnails/overwriting_feature_layers.png
+#   snippet: overwriting feature layers
+#   description: In this sample, we edit individual features as updated datasets are available
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "Overwrite", "Feature", "Layers"]
+# - title: PDF Table to PDF Map
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=d4124579b757443fa0577a93ad1d07ab
+#   path: ./samples/05_content_publishers/pdf_table_to_pdf_map.ipynb
+#   thumbnail: ./static/thumbnails/pdf_table_to_pdf_map.png
+#   snippet: pdf table to pdf map
+#   description: This sample shows how Pandas can be used to extract data from a table within a PDF file into the GIS for further analysis and visualization
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "pdf", "Table", "Map"]
+# - title: Publishing packages as web layers
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=d759771e21344942b5b67cf34439c91c
+#   path: ./samples/05_content_publishers/publishing_packages_as_web_layers.ipynb
+#   thumbnail: ./static/thumbnails/publishing_packages_as_web_layers.png
+#   snippet: publishing packages as web layers
+#   description: In this sample, we will observe how to publish web layers from tile, vector tile and scene layer packages.
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "Web", "Publish", "Layers"]
+# - title: Publishing SDs, Shapefiles, and CSVs
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=a1db6db172bc49a8932daacc2ed3d3ac
+#   path: ./samples/05_content_publishers/publishing_sd_shapefiles_and_csv.ipynb
+#   thumbnail: ./static/thumbnails/publishing_sd_shapefiles_and_csv.png
+#   snippet: publishing sd shapefiles and csv
+#   description: This sample notebook shows how different types of GIS datasets can be added to the GIS, and published as web layers.
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "Shapefiles", "Publish", "CSV"]
+# - title: Publishing web maps and web scenes
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=9840ca386ee7480a880d84a497db41de
+#   path: ./samples/05_content_publishers/publishing_web_maps_and_web_scenes.ipynb
+#   thumbnail: ./static/thumbnails/publishing_web_maps_and_web_scenes.png
+#   snippet: publishing web maps and web scenes
+#   description: This sample demonstrates how to create and publish simple examples of web maps and scenes using the Python API.
+#   licenseInfo: ''
+#   tags: ['Data Science', 'GIS', "Maps", "Web Scenes", "Publish"]
 - title: Building a change detection app using Jupyter Dashboard
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=e3a0e48329cf4213a15574dd4b6b7694
   path: ./samples/02_power_users_developers/building_a_change_detection_app_using_jupyter_dashboard.ipynb
@@ -700,14 +700,14 @@ samples:
   description: This sample shows you how to update the content of web maps and web scenes.
   licenseInfo: ""
   tags: ["Data Science", "GIS", "Text", "Classification"]
-- title: Updating features in a feature layer
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=e8e2b0ac54584d079420b35b011d3d50
-  path: ./samples/05_content_publishers/updating_features_in_a_feature_layer.ipynb
-  thumbnail: ./static/thumbnails/default.png
-  snippet: As content publishers, you may be required to keep certain web layers upto date. As new data arrives, you may have to append new features, update existing features etc.
-  description: As content publishers, you may be required to keep certain web layers upto date. As new data arrives, you may have to append new features, update existing features etc.
-  licenseInfo: ""
-  tags: ["Data Science", "GIS", "Text", "Classification"]
+# - title: Updating features in a feature layer
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=e8e2b0ac54584d079420b35b011d3d50
+#   path: ./samples/05_content_publishers/updating_features_in_a_feature_layer.ipynb
+#   thumbnail: ./static/thumbnails/default.png
+#   snippet: As content publishers, you may be required to keep certain web layers upto date. As new data arrives, you may have to append new features, update existing features etc.
+#   description: As content publishers, you may be required to keep certain web layers upto date. As new data arrives, you may have to append new features, update existing features etc.
+#   licenseInfo: ""
+#   tags: ["Data Science", "GIS", "Text", "Classification"]
 - title: Land Parcel Extraction using Edge Detection model
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=e164250b748240b5909159602dee826a
   path: ./samples/04_gis_analysts_data_scientists/land_parcel_extraction_using_edge_detection_deep_learning_model.ipynb
