@@ -469,15 +469,15 @@ samples:
   description: This sample showcases two autoregressive methods. one using a deep learning and another using a machine learning framework to predict temperature of England.
   licenseInfo: ""
   tags: ["Data Science", "GIS", "Time Series", "Temperature", "Forecast"]
-- title: Plant species identification using a TensorFlow-Lite model within mobile devices
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=fc21cc2f4a014a8e88f72d846b5afff1
-  path: ./samples/04_gis_analysts_data_scientists/train_a_tensorflow-lite_model_for_identifying_plant_species.ipynb
-  thumbnail: ./static/thumbnails/train_a_tensorflow-lite_model_for_identifying_plant_species.png
-  snippet: Identify plant species using a tensorflow model
-  description: This notebook intends to showcase this capability to train a deep learning model that can be used in mobile applications for a real time inferencing using TensorFlow Lite framework.
-  licenseInfo: ""
-  runtime: advanced_gpu
-  tags: ["Data Science", "GIS", "TansorFlow Lite", "Plant Species", "Deep Learning"]
+# - title: Plant species identification using a TensorFlow-Lite model within mobile devices
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=fc21cc2f4a014a8e88f72d846b5afff1
+#   path: ./samples/04_gis_analysts_data_scientists/train_a_tensorflow-lite_model_for_identifying_plant_species.ipynb
+#   thumbnail: ./static/thumbnails/train_a_tensorflow-lite_model_for_identifying_plant_species.png
+#   snippet: Identify plant species using a tensorflow model
+#   description: This notebook intends to showcase this capability to train a deep learning model that can be used in mobile applications for a real time inferencing using TensorFlow Lite framework.
+#   licenseInfo: ""
+#   runtime: advanced_gpu
+#   tags: ["Data Science", "GIS", "TansorFlow Lite", "Plant Species", "Deep Learning"]
 - title: Vehicle detection and tracking using deep learning
   url: https://geosaurus.maps.arcgis.com/home/item.html?id=871057ea4c864343900f36f3bf64b675
   path: ./samples/04_gis_analysts_data_scientists/vehicle_detection_and_tracking.ipynb
@@ -726,15 +726,15 @@ samples:
   licenseInfo: ""
   runtime: advanced_gpu
   tags: ["Data Science", "GIS", "Change Detection", "Deep Learning"]
-- title: Generating rgb imagery from digital surface model using Pix2Pix
-  url: https://geosaurus.maps.arcgis.com/home/item.html?id=d2d58e9d0e624f4baddd983d8acea3da
-  path: ./samples/04_gis_analysts_data_scientists/generating_rgb_imagery_from_digital_surface_model_using_pix2pix.ipynb
-  thumbnail: ./static/thumbnails/default.png
-  snippet: The aim of this notebook is to make use of arcgis.learn Pix2Pix model to translate or convert the gray-scale DSM to a RGB imagery.
-  description: The aim of this notebook is to make use of arcgis.learn Pix2Pix model to translate or convert the gray-scale DSM to a RGB imagery.
-  licenseInfo: ""
-  runtime: advanced_gpu
-  tags: ["Data Science", "GIS", "Image Translation", "Deep Learning"]
+# - title: Generating rgb imagery from digital surface model using Pix2Pix
+#   url: https://geosaurus.maps.arcgis.com/home/item.html?id=d2d58e9d0e624f4baddd983d8acea3da
+#   path: ./samples/04_gis_analysts_data_scientists/generating_rgb_imagery_from_digital_surface_model_using_pix2pix.ipynb
+#   thumbnail: ./static/thumbnails/default.png
+#   snippet: The aim of this notebook is to make use of arcgis.learn Pix2Pix model to translate or convert the gray-scale DSM to a RGB imagery.
+#   description: The aim of this notebook is to make use of arcgis.learn Pix2Pix model to translate or convert the gray-scale DSM to a RGB imagery.
+#   licenseInfo: ""
+#   runtime: advanced_gpu
+#   tags: ["Data Science", "GIS", "Image Translation", "Deep Learning"]
 # - title: Coastline extraction using Landsat-8 multispectral imagery and band ratio technique
 #   url: https://geosaurus.maps.arcgis.com/home/item.html?id=4d8d5789a5e045bbbd02a01903841439
 #   path: ./samples/04_gis_analysts_data_scientists/coastline_extraction-usa-landsat8_multispectral_imagery.ipynb
